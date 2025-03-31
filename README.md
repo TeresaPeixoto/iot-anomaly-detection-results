@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/956715852.svg)](https://handle.stage.datacite.org/10.5072/zenodo.192682)
+
 # Comparative Analysis of Anomaly Detection Techniques for IoT Time Series Data
 This repository contains supplementary materials for the article "Comparative Analysis of Anomaly Detection Techniques for IoT Time Series Data". 
 The study was conducted to evaluate different anomaly detection techniques, focusing on identifying patterns and faults in an industrial scenario, specifically in monitoring an extrusion machine.
