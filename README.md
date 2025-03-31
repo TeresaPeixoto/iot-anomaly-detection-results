@@ -1,4 +1,4 @@
-[![DOI](https://sandbox.zenodo.org/badge/956715852.svg)](https://handle.stage.datacite.org/10.5072/zenodo.192682)
+[![DOI](https://zenodo.org/badge/956715852.svg)](https://doi.org/10.5281/zenodo.15112838)
 
 # Comparative Analysis of Anomaly Detection Techniques for IoT Time Series Data
 This repository contains supplementary materials for the article "Comparative Analysis of Anomaly Detection Techniques for IoT Time Series Data". 
